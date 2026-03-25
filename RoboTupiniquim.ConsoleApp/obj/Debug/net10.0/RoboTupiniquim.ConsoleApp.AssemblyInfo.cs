@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoboTupiniquim.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782b524abd7248fe39f15e61f38c777f405961a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd584b105d62b5cb8f91115c1a058a08e5cb78c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoboTupiniquim.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoboTupiniquim.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

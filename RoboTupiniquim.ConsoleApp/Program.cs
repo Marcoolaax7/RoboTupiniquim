@@ -30,7 +30,7 @@ class Program
         Robo.Configurar(1, 2, 'N');
 
 
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("---------------------");
         Console.WriteLine("Robo Tupiniquim");
         Console.WriteLine("---------------------");

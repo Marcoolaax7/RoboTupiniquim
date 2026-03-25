@@ -12,3 +12,4 @@ C:\Users\User\Documents\academia 2026\RoboTupiniquim\RoboTupiniquim.ConsoleApp\o
 C:\Users\User\Documents\academia 2026\RoboTupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.pdb
 C:\Users\User\Documents\academia 2026\RoboTupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.genruntimeconfig.cache
 C:\Users\User\Documents\academia 2026\RoboTupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\ref\RoboTupiniquim.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\RoboTupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.sourcelink.json
