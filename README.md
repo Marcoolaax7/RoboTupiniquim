@@ -44,6 +44,7 @@ EMEMEMEMM
 ### Entrada:
 
 Digite a posição inicial: 1 2 N
+
 Digite a sequência de comandos: EMEMEMEMM
 
 
