@@ -1,7 +1,9 @@
 # 🤖 Robô Tupiniquim I 2026!
 
-##  Introdução  
-A Agência Espacial Brasileira (AEB) contratou a Academia do Programador para desenvolver o software de guia do Robô Tupiniquim I, que realizará análises em Marte. O robô explora uma área representada por um grid, movimentando-se com base em comandos simples enviados pelo usuário.
+## 📖 Introdução  
+O **Robô Tupiniquim I** é um projeto de console que simula a movimentação de um robô em um terreno em forma de grade, onde cada decisão influencia diretamente seu destino.  
+
+Com comandos básicos, você pode girar, avançar e guiar o robô até sua posição final, testando lógica de programação de forma prática e divertida.
 
 ## Funcionalidades  
 
